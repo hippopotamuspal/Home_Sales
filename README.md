@@ -15,3 +15,9 @@ The project includes code to:
 1. Cache and uncache temporary tables.
 1. Partition and process data for optimized analytics.
 1. Compare runtimes for various data states.
+
+
+## Sources
+- Most code was borrowed or inspired from class concepts taught in Module 22 of the June 2024 UMN Data Analytics Bootcamp course
+
+- Chat GPT was used for review of structure in specific lines and for debugging
